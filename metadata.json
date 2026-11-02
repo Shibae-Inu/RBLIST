@@ -1,0 +1,6 @@
+{
+  "name": "Picked - Tally & To-Do List",
+  "description": "A high-efficiency to-do and inventory tally list app with quantity tracking, rapid item picking, and session history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
